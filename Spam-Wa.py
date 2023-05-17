@@ -1,3 +1,4 @@
+# Thanks To : • - [ Dvanmeploph ( Ferly Afriliyan ) ] - •
 # Script Ini Gw Coding Sendiri
 # Coded By : • - [ Dvanmeploph ( Ferly Afriliyan ) ] - • 
 import time
