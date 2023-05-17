@@ -1,3 +1,5 @@
+# Script Ini Gw Coding Sendiri
+# Coded By : • - [ Dvanmeploph ( Ferly Afriliyan ) ] - • 
 import time
 import random
 import pyautogui as pg
